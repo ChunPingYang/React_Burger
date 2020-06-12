@@ -15,3 +15,5 @@ price of the order, and then customers can checkout the order.
 2. JWT
 3. Firebase
 
+## Demo
+[![Demo Doccou alpha](https://github.com/ChunPingYang/React_Burger/blob/master/src/assets/images/burgerGIF.gif)](https://youtu.be/eol2yQheNg4)
